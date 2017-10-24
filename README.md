@@ -1,6 +1,6 @@
-##It's a code using cv2 and face_recognition to track multiple faces.
+<font size=30><font color=blue>It's a code using cv2 and face_recognition to track multiple faces.</font></font>
 
-##这是对视频的人脸进行逐帧辨识标注的python code。
+这是对视频的人脸进行逐帧辨识标注的python code。
 
 I also make a writting function that writes the recognition results to a video by frames.
 Here are the pictures that this python code shows:
