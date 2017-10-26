@@ -19,6 +19,8 @@ Here are the pictures that this python code shows:
   
   ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/142.gif?raw=true )
   
+*********************  
+
 ## How to use
 
  - Put the picture of a face into the same fold under the python code, and put the name in it and then it can be shown.
